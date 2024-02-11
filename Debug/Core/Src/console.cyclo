@@ -1,0 +1,4 @@
+console.c:37:6:Console_INFO	1
+console.c:61:6:Console_DEBUG	1
+console.c:86:6:Console_WARNING	1
+console.c:109:6:Console_ERROR	1

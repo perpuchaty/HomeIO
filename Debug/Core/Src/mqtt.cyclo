@@ -1,0 +1,7 @@
+core_cm4.h:1933:34:__NVIC_SystemReset	1
+mqtt.c:14:6:mqtt_client_do_connect	3
+mqtt.c:41:6:mqtt_pub_connection_cb	2
+mqtt.c:60:6:mqtt_connection_cb	2
+mqtt.c:99:6:mqtt_incoming_publish_cb	3
+mqtt.c:118:6:mqtt_incoming_data_cb	33
+mqtt.c:225:6:mqtt_sub_request_cb	1

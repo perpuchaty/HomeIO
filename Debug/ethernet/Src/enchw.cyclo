@@ -1,0 +1,7 @@
+enchw.c:12:6:enchw_setup	1
+enchw.c:16:6:enchw_select	1
+enchw.c:23:6:enchw_unselect	1
+enchw.c:31:9:enchw_exchangebyte	1
+enchw.c:38:6:enchw_txbytes	1
+enchw.c:43:6:enchw_rxbytes	1
+enchw.c:48:6:enchw_txrxbytes	1

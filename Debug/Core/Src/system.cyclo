@@ -1,0 +1,14 @@
+core_cm4.h:1933:34:__NVIC_SystemReset	1
+system.c:49:6:system_init	1
+system.c:64:6:system_apply_settings	1
+system.c:71:6:system_led_update	11
+system.c:120:6:system_led	5
+system.c:143:6:writeShiftRegister	3
+system.c:164:6:system_drive_output	19
+system.c:219:6:HAL_GPIO_EXTI_Callback	5
+system.c:240:6:system_debounce	3
+system.c:251:6:HAL_SPI_RxCpltCallback	1
+system.c:256:10:system_read_adc	1
+system.c:284:6:system_check_state	9
+system.c:432:6:mqtt_pub_finished	1
+system.c:437:6:system_rgb_drive	11

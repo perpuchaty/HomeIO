@@ -1,0 +1,4 @@
+../Core/Src/settings.c:10:6:settings_change_ip	64	dynamic
+../Core/Src/settings.c:38:6:settings_dhcp	16	static
+../Core/Src/settings.c:50:6:settings_pwm	56	dynamic
+../Core/Src/settings.c:85:6:settings_name	56	dynamic

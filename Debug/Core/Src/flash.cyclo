@@ -1,0 +1,4 @@
+flash.c:11:6:EraseFlashPage	1
+flash.c:34:6:ProgramFlash	3
+flash.c:59:6:ProgramSettings	1
+flash.c:70:6:ReadSettingsFromFlash	1

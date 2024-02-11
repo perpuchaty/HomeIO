@@ -1,0 +1,4 @@
+settings.c:10:6:settings_change_ip	4
+settings.c:38:6:settings_dhcp	2
+settings.c:50:6:settings_pwm	4
+settings.c:85:6:settings_name	2

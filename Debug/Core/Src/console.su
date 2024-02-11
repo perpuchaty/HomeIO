@@ -1,0 +1,4 @@
+../Core/Src/console.c:37:6:Console_INFO	4	static
+../Core/Src/console.c:61:6:Console_DEBUG	4	static
+../Core/Src/console.c:86:6:Console_WARNING	4	static
+../Core/Src/console.c:109:6:Console_ERROR	4	static

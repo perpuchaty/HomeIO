@@ -1,0 +1,14 @@
+../Drivers/CMSIS/Include/core_cm4.h:1933:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../Core/Src/system.c:49:6:system_init	8	static
+../Core/Src/system.c:64:6:system_apply_settings	4	static
+../Core/Src/system.c:71:6:system_led_update	16	static
+../Core/Src/system.c:120:6:system_led	16	static
+../Core/Src/system.c:143:6:writeShiftRegister	24	static
+../Core/Src/system.c:164:6:system_drive_output	24	static
+../Core/Src/system.c:219:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/system.c:240:6:system_debounce	16	static
+../Core/Src/system.c:251:6:HAL_SPI_RxCpltCallback	16	static
+../Core/Src/system.c:256:10:system_read_adc	32	static
+../Core/Src/system.c:284:6:system_check_state	176	static
+../Core/Src/system.c:432:6:mqtt_pub_finished	8	static
+../Core/Src/system.c:437:6:system_rgb_drive	80	dynamic

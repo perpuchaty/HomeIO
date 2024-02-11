@@ -1,0 +1,3 @@
+C:/Users/Sowa/Desktop/Elektronika/SOFTWARE/_GIT/HomeIO/HomeIOv2/build/debug/build/CMakeFiles/HomeIOv2.dir
+C:/Users/Sowa/Desktop/Elektronika/SOFTWARE/_GIT/HomeIO/HomeIOv2/build/debug/build/CMakeFiles/edit_cache.dir
+C:/Users/Sowa/Desktop/Elektronika/SOFTWARE/_GIT/HomeIO/HomeIOv2/build/debug/build/CMakeFiles/rebuild_cache.dir

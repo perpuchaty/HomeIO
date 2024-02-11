@@ -1,0 +1,7 @@
+../ethernet/Src/enchw.c:12:6:enchw_setup	16	static
+../ethernet/Src/enchw.c:16:6:enchw_select	16	static
+../ethernet/Src/enchw.c:23:6:enchw_unselect	16	static
+../ethernet/Src/enchw.c:31:9:enchw_exchangebyte	32	static
+../ethernet/Src/enchw.c:38:6:enchw_txbytes	16	static
+../ethernet/Src/enchw.c:43:6:enchw_rxbytes	16	static
+../ethernet/Src/enchw.c:48:6:enchw_txrxbytes	24	static
