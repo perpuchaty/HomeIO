@@ -1,0 +1,25 @@
+# CMake build output
+build/
+
+# STM32CubeIDE / Eclipse build output
+Debug/
+Release/
+
+# Compiled binaries
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Object files and dependency tracking
+*.o
+*.d
+*.su
+*.cyclo
+
+# Visual Studio local settings
+.vs/
+
+# Eclipse / STM32CubeIDE workspace settings (machine-specific)
+.settings/
